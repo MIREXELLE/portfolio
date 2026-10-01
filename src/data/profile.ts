@@ -50,7 +50,7 @@ export const profile: Profile = {
   firstName: 'Xel',
   handle: '@MIREXELLE',
   role: 'IT Student · Aspiring Data Engineer',
-  avatarSrc: '/avatar.svg',
+  avatarSrc: '/avatar.png',
   verifiedLabel: 'Information Technology student',
   email: 'm.mirexellevincentc.piol@gmail.com',
   location: 'Philippines (GMT+8)',
@@ -65,7 +65,7 @@ export const profile: Profile = {
   displayName: { line1: 'Learning to build.', line2: 'Growing into data.' },
   hero: {
     body: 'IT student building back-end and front-end projects in Java, Spring and MySQL, aiming to become a data engineer.',
-    portraitSrc: '/avatar.svg',
+    portraitSrc: '/avatar.png',
     portraitAlt: 'Portrait of Mirexelle Vincent Piol',
   },
   socials: [

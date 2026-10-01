@@ -132,7 +132,7 @@ export default function AboutGrid() {
 
         <div className="agrid__portrait">
           <img
-            src="/avatar.svg"
+            src={profile.avatarSrc}
             alt="Portrait of Mirexelle Vincent Piol"
             loading="eager"
             decoding="async"
